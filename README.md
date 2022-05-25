@@ -1,4 +1,5 @@
-Containers Black Belt Program 2022
+**Containers Black Belt Program 2022**
+
 A 3-Week training program to enable blackbelts to earn the Containers Black Belt Program credentials and get ready for the Capstone project as one of the outcomes of the BB Pilot Program. Also, our goal is to discuss real world implementation strategies and best practices with attendees during sessions.
 
 Essentially the goal is to develop highly skilled builders within the partner community
