@@ -23,13 +23,13 @@ To be recognized using the Black Belt title and future badging
 Have networking and social opportunities to build relationships across AWS specialist
 Have access to specialized Ninja talks
 Have early consideration for AWS Partner Opportunities
-Fundamentals (Pre-Requisites For BlackBelt Data & Analytics Track)
 
+## Labs
 
-Labs
 Note: All Approved Attendees For The Program Will Receive Weekly E-mails With Credits Details For Using Their Own AWS Accounts. If you have not recieved an E-mail by Monday Morning, Please Let the BlackBelt Program Team Know.
 
 Please click on the Week folder above for Lab Details.
 
-License
+## License
+
 This library is licensed under the MIT-0 License. See the LICENSE file.
