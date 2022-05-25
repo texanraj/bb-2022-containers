@@ -1,12 +1,12 @@
-**Capstone Project**
+# Capstone Project
 
 The Capstone Project is a way to showcase all the learnings from the Containers track in a working example. You are expected to pick one of the use cases below. For an actual implementation, research something that might be usable in your current organization or customer. Think about how it might be used to build modernization using containers within your organization or in the customer organization.
 
-**Scenarios**
+# Scenarios
 
 See the example scenarios at (https://github.com/texanraj/bb-2022-containers/blob/main/Capstone/Example_projects.png)
 
-**Evaluation Criteria**
+# Evaluation Criteria
 
 Your Capstone project will be evaluated by a Specialist SA Panel and the Blackbelt Program team using the criteria in this rubric. The rubric is NOT an exhaustive list of Do's and Don'ts. It is meant to serve as Pillars (Cluster Management, Workloads, GitOps/Automation, Add-ons, and Security) 
 
@@ -22,15 +22,15 @@ Use your best judgement and logic to make sure you are aiming for "Raising The B
 
 See the Capstone rubric (https://github.com/texanraj/bb-2022-containers/blob/main/Capstone/Evaluation_criteria.png) for details.
 
-**Due Date**
+# Due Date
 
 Your Capstone Project time limit is 4 weeks from the end of the Containers Track. So roughly speaking June 24th, 2022.
 
-**Submission Details**
+# Submission Details
 
 We will discuss the submission process on May 25th '2022 during a live session.
 
-**So What Makes a Great Capstone Project?**
+# So What Makes a Great Capstone Project?
 
 1. Think Well-Architected
 2. Think About The Capstone Rubric Pillars
