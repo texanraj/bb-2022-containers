@@ -3,8 +3,7 @@
 The Capstone Project is a way to showcase all the learnings from the Containers track in a working example. You are expected to pick one of the use cases below. For an actual implementation, research something that might be usable in your current organization or customer. Think about how it might be used to build modernization using containers within your organization or in the customer organization.
 
 **Scenarios**
-
-
+See the example scenarios at (https://github.com/texanraj/bb-2022-containers/blob/main/Capstone/Example_projects.png)
 
 **Evaluation Criteria**
 
