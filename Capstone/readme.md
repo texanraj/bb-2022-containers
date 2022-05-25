@@ -20,7 +20,7 @@ Points are awarded based on how each pillar was addressed in your Capstone Proje
 
 Use your best judgement and logic to make sure you are aiming for "Raising The Bar" for every pillar. As always, any questions? Reach out to the Black Belt team.
 
-See the Capstone rubric (https://github.com/kiranrandhi/bb-2021-analytics/blob/main/Capstone/BB%202021%20Data%20%26%20Analytics%20CapStone%20Rubric.png) for details.
+See the Capstone rubric (https://github.com/texanraj/bb-2022-containers/blob/main/Capstone/Evaluation_criteria.png) for details.
 
 **Due Date**
 
